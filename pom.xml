@@ -21,6 +21,11 @@
             <version>7.0</version>
             <scope>provided</scope>
         </dependency>
+		<dependency>
+    <groupId>org.apache.jena</groupId>
+    <artifactId>jena-fuseki-server</artifactId>
+    <version>3.6.0</version>
+</dependency>
     </dependencies>
 
 <profiles>
